@@ -1,0 +1,8 @@
+{
+  "name": "CCIP-DATA-TRANSFER",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AAYUSH-GUPTA-coder/CCIP-DATA-TRANSFER.git",
+  "author": "AAYUSH-GUPTA-coder <guptaaayush432@gmail.com>",
+  "license": "MIT"
+}
