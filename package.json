@@ -1,5 +1,9 @@
 {
   "name": "CCIP-DATA-TRANSFER",
+  "devDependencies": {
+    "@chainlink/contracts": "^0.6.1",
+    "@chainlink/contracts-ccip": "^0.7.3"
+  },
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/AAYUSH-GUPTA-coder/CCIP-DATA-TRANSFER.git",
