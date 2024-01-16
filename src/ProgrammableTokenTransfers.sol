@@ -313,4 +313,9 @@ contract ProgrammableTokenTransfers is CCIPReceiver, OwnerIsCreator {
 
         IERC20(token).safeTransfer(beneficiary, amount);
     }
+
+    /// @notice function to get the token balance of the contract
+    function tokenBalance(address _token) public view returns(uint256 balance){
+        return IERC20(_token).balanceOf(address(this));
+    }
 }
