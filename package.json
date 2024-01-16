@@ -1,5 +1,5 @@
 {
-  "name": "CCIP-DATA-TRANSFER",
+  "name": "ccip-data-transfer",
   "devDependencies": {
     "@chainlink/contracts": "^0.6.1",
     "@chainlink/contracts-ccip": "^1.2.1"
